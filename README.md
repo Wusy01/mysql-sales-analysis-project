@@ -173,7 +173,6 @@ Indexes were created on frequently used columns such as customer name and produc
 
 # Screenshots
 
-Include screenshots of:
 - Data cleaning (date conversion)
 - Revenue by country query result
 - Top 10 customers result
